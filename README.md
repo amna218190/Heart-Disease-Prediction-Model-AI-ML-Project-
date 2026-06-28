@@ -1,2 +1,3 @@
 Heart Disease Prediction Model (AI/ML Project)
+
 Developed a machine learning-based Heart Disease Prediction Model to predict the likelihood of heart disease using patient health data. Implemented and compared three classification algorithms: K-Nearest Neighbors (KNN), Naive Bayes , and a Neural Network. Evaluated each model using standard performance metrics, with the Neural Network achieving the highest prediction accuracy. The project involved data preprocessing, feature selection, model training, performance evaluation, and comparative analysis to identify the most effective algorithm.
